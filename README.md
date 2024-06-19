@@ -24,14 +24,13 @@ ApiKey :- https://www.weatherapi.com/
 
 >- Prerequisites >-
 
->- Android Studio Iquana or Later.
+Android Studio Iquana or Later.
 
->- A basic understanding of Kotlin and Jetpack Compose.
+A basic understanding of Kotlin and Jetpack Compose.
 
->- A weather API key from a provider such as OpenWeatherMap or weatherapi.
+A weather API key from a provider such as OpenWeatherMap or weatherapi.
 
-
->- Installation >-
+Installation >-
 
 1:- Clone the Repository
 
