@@ -30,7 +30,7 @@ A basic understanding of Kotlin and Jetpack Compose.
 
 A weather API key from a provider such as OpenWeatherMap or weatherapi.
 
-Installation >-
+>- Installation >-
 
 1:- Clone the Repository
 
