@@ -21,13 +21,18 @@ Retrofit:- For making network requests to fetch weather data.
 
 ApiKey :- https://www.weatherapi.com/
 
+
 >- Prerequisites >-
 
 >- Android Studio Iquana or Later.
+
 >- A basic understanding of Kotlin and Jetpack Compose.
+
 >- A weather API key from a provider such as OpenWeatherMap or weatherapi.
 
+
 >- Installation >-
+
 1:- Clone the Repository
 
 2:- Open in Android Studio
