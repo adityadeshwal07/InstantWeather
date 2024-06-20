@@ -113,7 +113,7 @@ fun WeatherDetails(data : WeatherModel){
                 modifier = Modifier.size(40.dp)
                 )
             Text(text = data.location.name, fontSize = 25.sp)
-            Spacer(modifier = Modifier.width(8.dp))
+            Spacer(modifier = Modifier.width(5.dp))
             Text(text = data.location.country, fontSize = 18.sp, color = Color.Gray)
         }
         Spacer(modifier = Modifier.height(5.dp))
@@ -132,7 +132,7 @@ fun WeatherDetails(data : WeatherModel){
             fontSize = 20.sp,
             textAlign = TextAlign.Center
         )
-            Spacer(modifier = Modifier.height(16.dp))
+            Spacer(modifier = Modifier.height(10.dp))
 
         Text(text ="${data.current.feelslike_c}°c",
 
@@ -148,7 +148,7 @@ fun WeatherDetails(data : WeatherModel){
             textAlign = TextAlign.Center,
             fontSize = 16.sp
         )
-        Spacer(modifier = Modifier.height(16.dp))
+        Spacer(modifier = Modifier.height(10.dp))
         Card {
             Column(
                 modifier = Modifier.fillMaxWidth(),
